@@ -2,7 +2,7 @@
 
 by Igor Hut
 
-Repo for the submission of the course project for the Coursera (Johns Hopkins) Getting and Cleaning Data course.
+Repo for submission of the course project for Coursera (Johns Hopkins) Getting and Cleaning Data course.
 
 ### Overview
 The purpose of this project is to demonstrate the students ability to collect, work with, and clean a data set.
