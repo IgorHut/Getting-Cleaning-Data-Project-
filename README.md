@@ -10,7 +10,7 @@ The final goal is to prepare tidy data that which can be used for subsequent ana
 
 Initial data set used for this project and its full description can be found at [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-[The source data for this project can, also, be found here. This is the URL used in the submitted script "run_analysis.R"]
+[The source data for this project can, also, be found here. This is the URL used in the submitted script 'run_analysis.R']
 (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 
