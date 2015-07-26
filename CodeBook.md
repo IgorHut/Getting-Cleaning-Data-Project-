@@ -2,10 +2,12 @@
 
 This code book summarizes the resulting data fields in `tidy_avg_act_sub.txt`.
 
+
+
 ## Identifiers
 
-* `subject` - The ID of the test subject
-* `activityType` - The type of activity performed when the corresponding measurements were taken
+* `subject` - The ID of the test subject.
+* `activityType` - The type of activity performed when the corresponding measurement took place.
 
 ## Measurements
 
