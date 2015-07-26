@@ -33,4 +33,4 @@ The final output of the script is the text file 'tidy_avg_act_sub.txt'.
 
 ### Code book
 
-All the additional info re the variables description, the data set, and any transformations or modifications performed to obtain the tidy data set can be found in `CodeBook.md`. 
+All the additional info re  the resulting data fields in tidy_avg_act_sub.txt can be found in `CodeBook.md`. 
