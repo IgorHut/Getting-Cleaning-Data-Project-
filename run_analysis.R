@@ -91,6 +91,10 @@ names(dataSet)<-gsub("Mag", "Magnitude", names(dataSet))
 names(dataSet)<-gsub("BodyBody", "Body", names(dataSet))
 names(dataSet)<-gsub("^t", "timeDomain", names(dataSet))
 names(dataSet)<-gsub("^f", "frequencyDomain", names(dataSet))
+names(dataSet)<-gsub('-mean', 'Mean', names(dataSet))
+names(dataSet)<- gsub('-std', 'Std', names(dataSet))
+names(dataSet) <- gsub('[-()]', '', names(dataSet))
+
 
 ###########################################################################################################################
 # Step 5. 
