@@ -29,7 +29,7 @@ You are asked to create a R script called run_analysis.R which performs the foll
 ### Imortant when running the script
 
 You should take care that all the data is present in the same folder, un-compressed and without names altered. The script `run_analysis.R` contains all the code needed to perform the operations described in the 5 steps above. 
-The code is thoroughly commented, so I hope you won't have any problems to understand and follow its operation.
+The code is thoroughly commented, so I hope you won't have any problems to understand and follow its execution.
 The final output of the script is the text file 'tidy_avg_act_sub.txt'.
 
 ### Code book
