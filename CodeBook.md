@@ -1,6 +1,6 @@
 # Code Book
 
-This code book summarizes the resulting data fields in `tidy_avg_act_sub.txt`.
+This code book gives the summary of the resulting data fields in `tidy_avg_act_sub.txt`.
 
 
 
